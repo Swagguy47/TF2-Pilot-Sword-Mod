@@ -1,0 +1,14 @@
+{
+	"ApiId" : "Pilot Sword",
+	"Name" : "Pilot Sword",
+	"Description" : "Attempts to fix and restore some bits of the Pilot Sword, 'melee_pilot_sword' and 'mp_ability_sword_block' (+mods)",
+	"Authors" : [
+		"Swagguy47"
+	],
+	"Contacts" : [
+		"Discord: Swagguy47#1612"
+	],
+	"CustomScripts": [
+
+	],
+}
