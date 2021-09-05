@@ -10,6 +10,7 @@ _______________________________________________________
 This mod does not add anything new to the Icepick menu, you must give yourself the weapons and mods via the console. (~ key) (sv_cheats 1)
 
 Useful commands:
+
 Pilot Sword:
 `give melee_pilot_sword`
 
